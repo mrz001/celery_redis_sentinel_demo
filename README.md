@@ -1,1 +1,2 @@
 # celery_redis_sentinel_demo
+Celery 连接redis哨兵demo测试
